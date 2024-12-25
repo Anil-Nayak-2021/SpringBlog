@@ -1,9 +1,9 @@
-package org.martynas.blogapp.service;
-
-import org.martynas.blogapp.model.Post;
+package org.adp.blogapp.service;
 
 import java.util.Collection;
 import java.util.Optional;
+
+import org.adp.blogapp.model.Post;
 
 public interface PostService {
 

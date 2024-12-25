@@ -1,9 +1,9 @@
-package org.martynas.blogapp.service;
+package org.adp.blogapp.service;
 
-import org.martynas.blogapp.model.Authority;
-import org.martynas.blogapp.model.BlogUser;
-import org.martynas.blogapp.repository.AuthorityRepository;
-import org.martynas.blogapp.repository.BlogUserRepository;
+import org.adp.blogapp.model.Authority;
+import org.adp.blogapp.model.BlogUser;
+import org.adp.blogapp.repository.AuthorityRepository;
+import org.adp.blogapp.repository.BlogUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

@@ -1,6 +1,6 @@
-package org.martynas.blogapp.repository;
+package org.adp.blogapp.repository;
 
-import org.martynas.blogapp.model.Comment;
+import org.adp.blogapp.model.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

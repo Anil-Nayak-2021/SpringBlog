@@ -1,7 +1,7 @@
-package org.martynas.blogapp.service;
+package org.adp.blogapp.service;
 
-import org.martynas.blogapp.model.Comment;
-import org.martynas.blogapp.repository.CommentRepository;
+import org.adp.blogapp.model.Comment;
+import org.adp.blogapp.repository.CommentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

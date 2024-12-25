@@ -1,4 +1,4 @@
-package org.martynas.blogapp.model;
+package org.adp.blogapp.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;

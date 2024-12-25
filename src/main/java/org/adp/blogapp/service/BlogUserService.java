@@ -1,6 +1,6 @@
-package org.martynas.blogapp.service;
+package org.adp.blogapp.service;
 
-import org.martynas.blogapp.model.BlogUser;
+import org.adp.blogapp.model.BlogUser;
 import org.springframework.security.core.userdetails.UserDetailsService;
 
 import javax.management.relation.RoleNotFoundException;

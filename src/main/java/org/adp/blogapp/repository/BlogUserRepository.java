@@ -1,6 +1,6 @@
-package org.martynas.blogapp.repository;
+package org.adp.blogapp.repository;
 
-import org.martynas.blogapp.model.BlogUser;
+import org.adp.blogapp.model.BlogUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

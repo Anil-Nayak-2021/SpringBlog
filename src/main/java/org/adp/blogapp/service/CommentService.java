@@ -1,6 +1,6 @@
-package org.martynas.blogapp.service;
+package org.adp.blogapp.service;
 
-import org.martynas.blogapp.model.Comment;
+import org.adp.blogapp.model.Comment;
 
 public interface CommentService {
 
